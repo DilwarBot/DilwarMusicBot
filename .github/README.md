@@ -90,14 +90,14 @@ shikhar@MacBook~ $ bash start
 Reach out to the maintainer at one of the following places:
 
 - [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
+- Contact options listed on [this GitHub profile](https://github.com/DilwarBot/DilwarMusicBot)
 - [Telegram Support](https://t.me/YukkiSupport)
 
 ## 🎗 Project assistance
 
 If you want to say **thank you** or/and support active development of YukkiMusicBot:
 
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
+- Add a [GitHub Star](https://github.com/DilwarBot/DilwarMusicBot) to the project.
 - Fork the Repo :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
@@ -114,7 +114,7 @@ Please read [our contribution guidelines](CONTRIBUTING.md), and thank you for be
 
 ## 👨🏻‍💻 Authors & contributors
 
-The original setup of this repository is by [Team Yukki](https://github.com/TeamYukki).
+The original setup of this repository is by [Team Yukki](https://github.com/DilwarBot/DilwarMusicBot).
 
 For a full list of all authors and contributors, see [the contributors page](https://github.com/DilwarBot/DilwarMusicBot/contributors).
 
@@ -127,7 +127,7 @@ For more information and to report security issues, please refer to our [`SECURI
 
 ## 🗂 License
 
-This project is licensed under the **GNU General Public License v3**. All designs were created by [@NotReallyShikhar](https://github.com/NotReallyShikhar) .
+This project is licensed under the **GNU General Public License v3**. All designs were created by [@NotReallyShikhar](https://github.com/DilwarBot/DilwarMusicBot) .
 
 See [LICENSE](../LICENSE) for more information.
 
